@@ -1,0 +1,1 @@
+kaggle kernels output raneshguruparan/python-predicting-california-housing-prices -p /path/to/dest
